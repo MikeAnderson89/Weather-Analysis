@@ -1,1 +1,5 @@
 api_keys.py
+Extra_Files/
+.ipynb_checkpoints/
+_pycache_/
+debug.txt
